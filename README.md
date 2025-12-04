@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello, World! 🌎
 
-- 👋 Hi, I’m @Zoheb-Malik
-- 👀 I’m interested in coding, photography, exploration and meeting new people
-- 🌱 Mostly coding in JavaScript (NodeJS, ReactJS, TypeScript, Angular)
-- 🔭 I’m currently learning AI-related technologies
-- 👯 I’m looking to collaborate on anything related to artificial intelligence
+- 👋🏼 Hi, my name is Zoheb Malik
+- 👀 Interested in coding, photography, exploration and meeting new people
+- ⚡ Mostly coding in JavaScript (Node.js, React.js, TypeScript, Angular)
+- 🔭 Currently learning AI-related technologies
+- 🫱🏼‍🫲🏻 Looking to collaborate on anything related to artificial intelligence
+- 🟢 Big advocator for open-source
+- 🔎 Contactable via https://linkedin.com/in/Zoheb-Malik
